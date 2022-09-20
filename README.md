@@ -1,2 +1,3 @@
-# actividadGrupal
-Practica examen 1
+Luis Vargas
+Luciano Nicolosi
+Agostina Sachetto
